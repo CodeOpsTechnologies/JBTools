@@ -2,7 +2,7 @@
 [![Generic Badge](https://img.shields.io/badge/JetBrains_Tools-critical.svg)](https://www.jetbrains.com)
 [![Generic Badge](https://img.shields.io/badge/CodeOps.Tech-critical.svg)](https://codeops.tech)
 
-### About the Tool :computer:
+### About the Tool 
 
 >  [App Code](https://www.jetbrains.com/objc) is an integrated development environment for Swift, Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform. The first public preview version of AppCode became available in April 2011. 
 
