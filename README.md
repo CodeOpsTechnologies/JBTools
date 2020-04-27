@@ -1,2 +1,2 @@
 # About AppCode
-[![Jet Brains Tools !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.jetbrains.com/)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-blue.svg)](https://shields.io/)
