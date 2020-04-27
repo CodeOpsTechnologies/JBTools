@@ -7,4 +7,4 @@
 >  [App Code](https://www.jetbrains.com/objc) is an integrated development environment for Swift, Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform. The first public preview version of AppCode became available in April 2011. 
 
 ### AppCode Learning Resources
-1.
+1. [CocoaPods support in AppCode](https://www.youtube.com/watch?v=W-dujzFOqDQ&list=PLQ176FUIyIUbgRx3HIRKFgHHkapFWv9Tf&index=2&t=3s)
