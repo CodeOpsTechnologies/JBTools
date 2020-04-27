@@ -15,4 +15,6 @@
 6. [Better TDD: The AppCode Advantage](https://www.youtube.com/watch?v=GtKiLWIRaqQ&list=PLQ176FUIyIUbgRx3HIRKFgHHkapFWv9Tf&index=13)
 
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@CodeOpsTech&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/CodeOpsTech) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/CodeOpsTech)
+[![Facebook](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=facebook&style=flat&logoColor=white&colorA=critical)](https://www.facebook.com/CodeOpsTech)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=critical)](https://www.linkedin.com/company/codeops-technologies/)
+[![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/CodeOpsTech)
