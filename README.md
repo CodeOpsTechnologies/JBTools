@@ -4,4 +4,4 @@
 
 ## About the Tool :computer:
 
-> _[App Code](https://www.jetbrains.com/objc) is an integrated development platform used for developing iOS/macOS apps. 
+>  [App Code](https://www.jetbrains.com/objc) is an integrated development platform used for developing iOS/macOS apps. 
