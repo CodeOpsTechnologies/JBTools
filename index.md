@@ -1,6 +1,6 @@
 # AppCode
-[![Generic Badge](https://img.shields.io/badge/JetBrains_Tools-critical.svg)](https://www.jetbrains.com)
-[![Generic Badge](https://img.shields.io/badge/CodeOps.Tech-critical.svg)](https://codeops.tech)
+[![Generic Badge](https://img.shields.io/badge/JetBrains_Tools-royalblue.svg)](https://www.jetbrains.com)
+[![Generic Badge](https://img.shields.io/badge/CodeOps.Tech-royalblue.svg)](https://codeops.tech)
 
 ### About the Tool 💻
 
